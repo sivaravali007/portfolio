@@ -12,6 +12,9 @@ with col1:
 
     st.progress(90)
     st.write("Manual Testing")
+    
+    st.progress(90)
+    st.write("Playwright automation Testing")
 
     st.progress(85)
     st.write("ETL Testing")
